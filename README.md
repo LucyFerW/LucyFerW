@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2> I'm Fer Martinez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://www.freepik.es/vector-gratis/dibujado-mano-gente-ilustrada-planeando-negocios_19948931.htm#query=plan%20de%20trabajo&position=7&from_view=keyword&track=ais)" width="230">
+<img align='right' src="[[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://www.freepik.es/vector-gratis/dibujado-mano-gente-ilustrada-planeando-negocios_19948931.htm#query=plan%20de%20trabajo&position=7&from_view=keyword&track=ais](https://www.google.com/search?q=gif+animados+datos+analisis&tbm=isch&ved=2ahUKEwi2luujp-b-AhVSmoQIHVEYBpcQ2-cCegQIABAA&oq=gif+animados+datos+analisis&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQCBAeUKIFWL4MYOMNaABwAHgAgAGWAYgBxgmSAQQwLjEwmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=bDlZZLawKtK0kvQP0bCYuAk&bih=929&biw=1920&rlz=1C1UEAD_esCO991CO991#imgrc=kpkzuD6srvIwfM))" width="230">
 <p><em>International Business at <a href="https://www.uniagustiniana.edu.co/">University of Agustiniana
 <p><em>BI Analyst
 </em></p>
