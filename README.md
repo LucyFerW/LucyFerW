@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <h2> I'm Fer Martinez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[[<iframe src="https://dribbble.com/shots/2172083-Magnify">via GIPHY</a></p>))" width="230">
+<img align='right' src="[[<iframe src="https://giphy.com/embed/l46Cy1rHbQ92uuLXa/giphy.gif" width="230">
+
 <p><em>International Business at <a href="https://www.uniagustiniana.edu.co/">University of Agustiniana
 <p><em>BI Analyst
 </em></p>
