@@ -2,7 +2,8 @@
 
 <h2> I'm Fer Martinez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>International Business at <a href="https://www.uniagustiniana.edu.co/">University of Agustiniana/br>BI Analyst at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>International Business at <a href="https://www.uniagustiniana.edu.co/">University of Agustiniana/br>
+<p><em>BI Analyst/br>
 </em></p>
 
 [![Twitter: FerMartinezo_O](https://img.shields.io/twitter/follow/FerMartinezo_O?style=social)](https://twitter.com/FerMartinezo_O)
