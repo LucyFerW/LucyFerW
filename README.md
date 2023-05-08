@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h2> I'm Fer Martinez! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[https://giphy.com/embed/l46Cy1rHbQ92uuLXa/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2E4M2UyMDViMTQ1NWZmZmIyYzgxMDAyNGYyMjA3MzA5NzE1N2Y3ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif)" width="230">
-
+<img align='right' src="[https://giphy.com/embed/l46Cy1rHbQ92uuLXa/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>International Business at <a href="https://www.uniagustiniana.edu.co/">University of Agustiniana
 <p><em>BI Analyst
 </em></p>
